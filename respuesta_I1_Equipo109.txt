@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 respuesta e
 =======
+=======
+>>>>>>> 5e07924eeb0abf0733cb1a1b6c1927c62ec68a89
 Nombre de los participantes:
 Camila Devincenzi
 Acuña Lucas
@@ -11,4 +14,7 @@ B.Sí, lo pueden ver haciendo también un git pull para traer los cambios que ha
 c-Los demas ven la parte de betta siempre y cuando despues el archivo no se sobreescriba con un echo con un solo >
 nos comunicamos por discord y por la tabla que creamos en proyect
 d-nos comunicamos por discord y por la tabla que creamos en proyect
+<<<<<<< HEAD
+>>>>>>> 5e07924eeb0abf0733cb1a1b6c1927c62ec68a89
+=======
 >>>>>>> 5e07924eeb0abf0733cb1a1b6c1927c62ec68a89
