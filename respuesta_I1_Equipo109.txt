@@ -1,13 +1,10 @@
-
-respuesta e
-
 Nombre de los participantes:
 Camila Devincenzi
 Acuña Lucas
 Ferreira Martin
 
-A. Si, haciendo un pull traigo los datos que cargaron los demás 
-B.Sí, lo pueden ver haciendo también un git pull para traer los cambios que haga
+A. Si, los veo.
+B. Sí, lo pueden ver. 
 c-Los demas ven la parte de betta siempre y cuando despues el archivo no se sobreescriba con un echo con un solo
 d-nos comunicamos por discord y por la tabla que creamos en proyect
 e-la mejor forma es por el project.
