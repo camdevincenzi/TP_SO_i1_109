@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 acuña lucas uid=197609 Thu May 15 11:56:58     2025
+acuña lucas uid=197609 Thu May 15 11:56:58     2025
+=======
+uid=197609(marti) gid=197609 groups=197609 Thu May 15 12:23:04 2025 Martin Ferreira
+>>>>>>> ff003935845453efb3bc15dd7292b2a6a04ac851
 acuña lucas uid=197609 Thu May 15 11:56:58     2025
