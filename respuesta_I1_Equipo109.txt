@@ -1,3 +1,7 @@
+Nombre de los participantes:
+Camila Devincenzi
+Acuña Lucas
+Ferreira Martin
 
- A. Si, haciendo un pull traigo los datos que cargaron los demás 
- B.Sí, lo pueden ver haciendo también un git pull para traer los cambios que haga
+A. Si, haciendo un pull traigo los datos que cargaron los demás 
+B.Sí, lo pueden ver haciendo también un git pull para traer los cambios que haga
