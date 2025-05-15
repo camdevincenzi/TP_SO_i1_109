@@ -6,3 +6,4 @@ Ferreira Martin
 A. Si, haciendo un pull traigo los datos que cargaron los demás 
 B.Sí, lo pueden ver haciendo también un git pull para traer los cambios que haga
 c-Los demas ven la parte de betta siempre y cuando despues el archivo no se sobreescriba con un echo con un solo >
+nos comunicamos por discord y por la tabla que creamos en proyect
